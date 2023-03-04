@@ -3,7 +3,7 @@
    ![image](https://user-images.githubusercontent.com/95774386/222864280-33cc3e09-5f06-4765-afb4-83cdad4b9715.png)
 
 
-## Background for Roleplay
+## Role Playing Background Story
 
 As the new Chief Data Scientist for my city's school district. I be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
