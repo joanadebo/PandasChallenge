@@ -39,6 +39,6 @@ Scores by School Spending
 ### Scores by School Size 
 Create the size_summary DataFrame using the binned and averaged size data
 
-### Scores by School Type (5 points)
+### Scores by School Type 
 Group the per_school_summary DataFrame by "School Type" and average the results 
 Create a new DataFrame called type_summary that uses the new column data
